@@ -12,4 +12,5 @@ if(op=="-"):
 	c = a-b
 	print("Resultado: "+str(c))
 if(op=="*"):
-	print("No impplementado todavia")
+	c = a*b
+	print("Resultado: "+str(c))
